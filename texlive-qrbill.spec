@@ -1,6 +1,6 @@
 Name:		texlive-qrbill
 Version:	64773
-Release:	1
+Release:	2
 Summary:	Create QR bills using LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qrbill
