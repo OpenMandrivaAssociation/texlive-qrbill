@@ -3,7 +3,7 @@ Version:	67724
 Release:	1
 Summary:	Create QR bills using LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qrbill
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/qrbill
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qrbill.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qrbill.doc.r%{version}.tar.xz
